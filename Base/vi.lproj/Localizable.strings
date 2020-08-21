@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Knafeh
+
+  Created by Tinh Vu on 4/10/20.
+  Copyright © 2020 Ominext JSC. All rights reserved.
+*/
+
+// MARK: - Calendar
+"hello" = "Xin chào thế giới";
